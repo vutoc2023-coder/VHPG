@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /VHPG/
+Sitemap: https://vutoc2023-coder.github.io/VHPG/sitemap.xml

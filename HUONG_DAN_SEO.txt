@@ -1,0 +1,9 @@
+VHPG GROUP - HUONG DAN SEO
+
+1. Tai toan bo noi dung trong file ZIP nay len thu muc goc cua repo VHPG tren GitHub, ghi de index.html.
+2. Cho GitHub Pages cap nhat, kiem tra https://vutoc2023-coder.github.io/VHPG/sitemap.xml
+3. Mo Google Search Console > Sitemaps > Add a new sitemap, nhap sitemap.xml va Submit.
+4. Theo doi URL Inspection va Pages. Google co the can vai ngay den vai tuan de lap chi muc.
+5. Khong xoa file google394263a63de7ed16.html.
+
+Luu y: robots.txt dat trong /VHPG/ khong phai robots.txt o goc ten mien github.io, nen khong co hieu luc dieu khien crawler theo chuan robots exclusion. File duoc kem de tham khao neu sau nay chuyen sang ten mien rieng; sitemap can gui qua Search Console.
